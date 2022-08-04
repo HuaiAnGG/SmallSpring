@@ -11,7 +11,6 @@ import wiki.laona.springframework.factory.config.BeanDefinition;
  **/
 public abstract class AbstractAutoWriteCapableBeanFactory extends AbstractBeanFactory {
 
-
     @Override
     protected Object createBean(String beanName, BeanDefinition beanDefinition) throws BeansException {
         Object bean = null;
