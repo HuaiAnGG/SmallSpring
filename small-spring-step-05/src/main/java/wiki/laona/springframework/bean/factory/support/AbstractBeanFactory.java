@@ -1,8 +1,8 @@
-package wiki.laona.springframework.test.bean.factory.support;
+package wiki.laona.springframework.bean.factory.support;
 
-import wiki.laona.springframework.test.bean.BeansException;
-import wiki.laona.springframework.test.bean.factory.BeanFactory;
-import wiki.laona.springframework.test.bean.factory.config.BeanDefinition;
+import wiki.laona.springframework.bean.BeansException;
+import wiki.laona.springframework.bean.factory.BeanFactory;
+import wiki.laona.springframework.bean.factory.config.BeanDefinition;
 
 /**
  * @author laona

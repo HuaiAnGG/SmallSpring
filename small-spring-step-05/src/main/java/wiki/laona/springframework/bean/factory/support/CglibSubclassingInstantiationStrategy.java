@@ -1,9 +1,9 @@
-package wiki.laona.springframework.test.bean.factory.support;
+package wiki.laona.springframework.bean.factory.support;
 
 import net.sf.cglib.proxy.Enhancer;
 import net.sf.cglib.proxy.NoOp;
-import wiki.laona.springframework.test.bean.BeansException;
-import wiki.laona.springframework.test.bean.factory.config.BeanDefinition;
+import wiki.laona.springframework.bean.BeansException;
+import wiki.laona.springframework.bean.factory.config.BeanDefinition;
 
 import java.lang.reflect.Constructor;
 

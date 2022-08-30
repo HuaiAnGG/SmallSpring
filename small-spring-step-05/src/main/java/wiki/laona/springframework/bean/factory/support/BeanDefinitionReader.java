@@ -1,6 +1,6 @@
-package wiki.laona.springframework.test.bean.factory.support;
+package wiki.laona.springframework.bean.factory.support;
 
-import wiki.laona.springframework.test.bean.BeansException;
+import wiki.laona.springframework.bean.BeansException;
 import wiki.laona.springframework.core.io.Resource;
 import wiki.laona.springframework.core.io.ResourceLoader;
 

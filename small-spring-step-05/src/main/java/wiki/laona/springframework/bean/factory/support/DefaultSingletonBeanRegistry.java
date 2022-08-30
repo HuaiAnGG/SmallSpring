@@ -1,6 +1,6 @@
-package wiki.laona.springframework.test.bean.factory.support;
+package wiki.laona.springframework.bean.factory.support;
 
-import wiki.laona.springframework.test.bean.factory.config.SingletonBeanRegistry;
+import wiki.laona.springframework.bean.factory.config.SingletonBeanRegistry;
 
 import java.util.HashMap;
 import java.util.Map;

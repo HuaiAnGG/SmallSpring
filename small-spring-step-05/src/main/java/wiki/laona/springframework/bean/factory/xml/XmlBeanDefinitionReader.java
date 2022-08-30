@@ -1,16 +1,16 @@
-package wiki.laona.springframework.test.bean.factory.xml;
+package wiki.laona.springframework.bean.factory.xml;
 
 import cn.hutool.core.util.StrUtil;
 import cn.hutool.core.util.XmlUtil;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.NodeList;
-import wiki.laona.springframework.test.bean.BeansException;
-import wiki.laona.springframework.test.bean.PropertyValue;
-import wiki.laona.springframework.test.bean.factory.config.BeanDefinition;
-import wiki.laona.springframework.test.bean.factory.config.BeanReference;
-import wiki.laona.springframework.test.bean.factory.support.AbstractBeanDefinitionReader;
-import wiki.laona.springframework.test.bean.factory.support.BeanDefinitionRegistry;
+import wiki.laona.springframework.bean.BeansException;
+import wiki.laona.springframework.bean.PropertyValue;
+import wiki.laona.springframework.bean.factory.config.BeanDefinition;
+import wiki.laona.springframework.bean.factory.config.BeanReference;
+import wiki.laona.springframework.bean.factory.support.AbstractBeanDefinitionReader;
+import wiki.laona.springframework.bean.factory.support.BeanDefinitionRegistry;
 import wiki.laona.springframework.core.io.Resource;
 import wiki.laona.springframework.core.io.ResourceLoader;
 

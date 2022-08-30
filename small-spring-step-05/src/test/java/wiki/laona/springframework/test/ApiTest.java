@@ -2,8 +2,8 @@ package wiki.laona.springframework.test;
 
 import org.junit.jupiter.api.Test;
 import wiki.laona.springframework.test.bean.UserService;
-import wiki.laona.springframework.test.bean.factory.support.DefaultListableBeanFactory;
-import wiki.laona.springframework.test.bean.factory.xml.XmlBeanDefinitionReader;
+import wiki.laona.springframework.bean.factory.support.DefaultListableBeanFactory;
+import wiki.laona.springframework.bean.factory.xml.XmlBeanDefinitionReader;
 
 /**
  * @author laona

@@ -1,4 +1,4 @@
-package wiki.laona.springframework.test.bean.factory.support;
+package wiki.laona.springframework.bean.factory.support;
 
 import wiki.laona.springframework.core.io.DefaultResourceLoader;
 import wiki.laona.springframework.core.io.ResourceLoader;

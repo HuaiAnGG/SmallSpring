@@ -1,6 +1,6 @@
-package wiki.laona.springframework.test.bean.factory.config;
+package wiki.laona.springframework.bean.factory.config;
 
-import wiki.laona.springframework.test.bean.factory.HierarchicalBeanFactory;
+import wiki.laona.springframework.bean.factory.HierarchicalBeanFactory;
 
 /**
  * Created by laona

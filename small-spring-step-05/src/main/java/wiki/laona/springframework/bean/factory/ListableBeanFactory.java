@@ -1,6 +1,6 @@
-package wiki.laona.springframework.test.bean.factory;
+package wiki.laona.springframework.bean.factory;
 
-import wiki.laona.springframework.test.bean.BeansException;
+import wiki.laona.springframework.bean.BeansException;
 
 import java.util.Map;
 

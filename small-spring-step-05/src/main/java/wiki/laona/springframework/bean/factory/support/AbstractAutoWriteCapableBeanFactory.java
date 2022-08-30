@@ -1,11 +1,11 @@
-package wiki.laona.springframework.test.bean.factory.support;
+package wiki.laona.springframework.bean.factory.support;
 
 import cn.hutool.core.bean.BeanUtil;
-import wiki.laona.springframework.test.bean.BeansException;
-import wiki.laona.springframework.test.bean.PropertyValue;
-import wiki.laona.springframework.test.bean.PropertyValues;
-import wiki.laona.springframework.test.bean.factory.config.BeanDefinition;
-import wiki.laona.springframework.test.bean.factory.config.BeanReference;
+import wiki.laona.springframework.bean.BeansException;
+import wiki.laona.springframework.bean.PropertyValue;
+import wiki.laona.springframework.bean.PropertyValues;
+import wiki.laona.springframework.bean.factory.config.BeanDefinition;
+import wiki.laona.springframework.bean.factory.config.BeanReference;
 
 import java.lang.reflect.Constructor;
 

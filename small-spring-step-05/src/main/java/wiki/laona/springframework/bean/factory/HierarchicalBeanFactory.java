@@ -1,4 +1,4 @@
-package wiki.laona.springframework.test.bean.factory;
+package wiki.laona.springframework.bean.factory;
 
 /**
  * Created by laona

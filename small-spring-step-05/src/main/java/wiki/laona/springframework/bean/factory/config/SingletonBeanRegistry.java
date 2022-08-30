@@ -1,4 +1,4 @@
-package wiki.laona.springframework.test.bean.factory.config;
+package wiki.laona.springframework.bean.factory.config;
 
 /**
  * @author laona
