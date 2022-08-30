@@ -2,34 +2,27 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>SmallSpring</artifactId>
+        <groupId>wiki.laona.springframework</groupId>
+        <version>1.0.0</version>
+    </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>wiki.laona.springframework</groupId>
-    <artifactId>SmallSpring</artifactId>
-    <packaging>pom</packaging>
-    <version>1.0.0</version>
-    <modules>
-        <module>small-spring-step-01</module>
-        <module>small-spring-step-02</module>
-        <module>small-spring-step-03</module>
-        <module>small-spring-step-04</module>
-        <module>small-spring-step-05</module>
-        <module>small-spring-step-06</module>
-    </modules>
+    <artifactId>small-spring-step-06</artifactId>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <guava.version>31.1-jre</guava.version>
-        <junit5.version>5.9.0</junit5.version>
     </properties>
+
 
     <dependencies>
         <dependency>
-            <groupId>com.google.guava</groupId>
-            <artifactId>guava</artifactId>
-            <version>${guava.version}</version>
+            <groupId>cglib</groupId>
+            <artifactId>cglib</artifactId>
+            <version>3.3.0</version>
         </dependency>
         <dependency>
             <groupId>org.junit.jupiter</groupId>
@@ -37,7 +30,10 @@
             <version>${junit5.version}</version>
             <scope>test</scope>
         </dependency>
-
+        <dependency>
+            <groupId>cn.hutool</groupId>
+            <artifactId>hutool-all</artifactId>
+            <version>5.8.5</version>
+        </dependency>
     </dependencies>
-
 </project>

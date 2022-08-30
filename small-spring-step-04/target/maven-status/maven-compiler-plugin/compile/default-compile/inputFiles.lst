@@ -1,0 +1,15 @@
+/Users/laona/IdeaProjects/SmallSpring/small-spring-step-04/src/main/java/wiki/laona/springframework/factory/config/SingletonBeanRegistry.java
+/Users/laona/IdeaProjects/SmallSpring/small-spring-step-04/src/main/java/wiki/laona/springframework/factory/support/BeanDefinitionRegistry.java
+/Users/laona/IdeaProjects/SmallSpring/small-spring-step-04/src/main/java/wiki/laona/springframework/PropertyValue.java
+/Users/laona/IdeaProjects/SmallSpring/small-spring-step-04/src/main/java/wiki/laona/springframework/factory/support/CglibSubclassingInstantiationStrategy.java
+/Users/laona/IdeaProjects/SmallSpring/small-spring-step-04/src/main/java/wiki/laona/springframework/factory/support/InstantiationStrategy.java
+/Users/laona/IdeaProjects/SmallSpring/small-spring-step-04/src/main/java/wiki/laona/springframework/factory/config/BeanDefinition.java
+/Users/laona/IdeaProjects/SmallSpring/small-spring-step-04/src/main/java/wiki/laona/springframework/PropertyValues.java
+/Users/laona/IdeaProjects/SmallSpring/small-spring-step-04/src/main/java/wiki/laona/springframework/factory/support/AbstractBeanFactory.java
+/Users/laona/IdeaProjects/SmallSpring/small-spring-step-04/src/main/java/wiki/laona/springframework/factory/support/SimpleInstantiationStrategy.java
+/Users/laona/IdeaProjects/SmallSpring/small-spring-step-04/src/main/java/wiki/laona/springframework/factory/config/BeanReference.java
+/Users/laona/IdeaProjects/SmallSpring/small-spring-step-04/src/main/java/wiki/laona/springframework/BeansException.java
+/Users/laona/IdeaProjects/SmallSpring/small-spring-step-04/src/main/java/wiki/laona/springframework/factory/BeanFactory.java
+/Users/laona/IdeaProjects/SmallSpring/small-spring-step-04/src/main/java/wiki/laona/springframework/factory/support/DefaultListableBeanFactory.java
+/Users/laona/IdeaProjects/SmallSpring/small-spring-step-04/src/main/java/wiki/laona/springframework/factory/support/AbstractAutoWriteCapableBeanFactory.java
+/Users/laona/IdeaProjects/SmallSpring/small-spring-step-04/src/main/java/wiki/laona/springframework/factory/support/DefaultSingletonBeanRegistry.java
